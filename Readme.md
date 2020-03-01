@@ -34,6 +34,11 @@ To get started, all you need is the [.NET Core 3.0 or 3.1 SDK][1], Visual Stud
 
 Get started by reading the Getting Started section in the [docs](https://docs.microsoft.com/mobile-blazor-bindings/) and read through the related walkthroughs.
 
+# Experimental Avalonia Blazor Bindings
+
+Port 'BlinForms.Framework' to work with Avalonia UI, the Proof Of Concept (POC) works.
+
+<img src="https://github.com/zhongzf/AvaloniaBlazorBindings/blob/feature/avalonia-bindings/src/AvaloniaBindings/doc/screenshot.png?raw=true" alt="Avalonia Bindings POC works" width="300" height="533" class="aligncenter size-full wp-image-23061" />
 
 ## Contributing
 
